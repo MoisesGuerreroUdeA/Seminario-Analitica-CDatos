@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/Data_Science-UdeA-green)
 ![Static Badge](https://img.shields.io/badge/Python-3.10.12-orange)
 ![GitHub Org's stars](https://img.shields.io/github/stars/MoisesGuerreroUdeA?style=social)
-![GitHub Org's stars](https://img.shields.io/github/issues/MoisesGuerreroUdeA/?style=social)
+![GitHub Org's stars](https://img.shields.io/github/issues/MoisesGuerreroUdeA/Seminario-Analitica-CDatos?style=social)
 
 <br/>
 <div align='center'>
