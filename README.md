@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 ![Static Badge](https://img.shields.io/badge/Data_Science-UdeA-green)
 ![Static Badge](https://img.shields.io/badge/Python-3.10.12-orange)
-![GitHub User's stars](https://img.shields.io/github/stars/MoisesGuerreroUdeA?style=plastic&color=purple)
+![GitHub User's stars](https://img.shields.io/github/stars/MoisesGuerreroUdeA?style=social)
 
 <br/>
 <div align='center'>
@@ -10,7 +10,7 @@
     <p>
         Material correspondiente a la entrega de los momentos evaluativos sobre el Seminario de Analítica y Ciencia de Datos.
         <br/>
-        <a href='#'><strong>Revisar la documentación »</strong></a>
+        <a href='docs/ME02/data_product_canvas.pdf'><strong>Revisar la documentación »</strong></a>
     </p>
 </div>
 
