@@ -3,7 +3,6 @@
 <br/>
 <div align='center'>
     <h2>Uso de inteligencia artificial para mejorar el desempeño de un proyecto de generación fotovoltaica</h2>
-    <hr>
     <h3> Seminario Analítica y Ciencia de Datos </h3>
     <p>
         Material correspondiente a la entrega de los momentos evaluativos sobre el Seminario de Analítica y Ciencia de Datos.
