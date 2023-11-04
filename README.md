@@ -21,8 +21,17 @@ Este proyecto tiene como objetivo abordar el desafío de aportar en la optimizac
 
 ## Herramientas requeridas
 
-* Python3
-* Google Colab
+* Python 3.10
+* Jupyter Lab
+* LaTex
+
+## Descripción del repositorio
+
+Los archivos del repositorio de encuentran distribuidos en 3 directorios principales `docs`, `imgs` y `jupyter`.
+
+* **docs:** Contiene subdirectorios para cada momento evaluativo incluyendo documentación en formato `tex`, que puede ser visualizada adicionalmente en formato `pdf`.
+* **imgs:** Imágenes usadas en los distintos archivos tanto de documentación como cuadernos jupyter.
+* **jupyter:** Incluye Subdirectorios por momento evaluativo con notebooks de jupyter asociados con la actividad requerida.
 
 ## Actividades
 
@@ -39,6 +48,3 @@ gantt
         Avances entrega monografía: a2, 2023-11-01, 2023-11-10
 ```
 
-## Descripción de archivos
-
-Los archivos se encuentran distribuidos incluyendo los documentos relacionados con las entregas realizadas hasta el momento en formato `.tex`.
