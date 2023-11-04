@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 ![Static Badge](https://img.shields.io/badge/Data_Science-UdeA-green)
 ![Static Badge](https://img.shields.io/badge/Python-3.10.12-orange)
-![GitHub Org's stars](https://img.shields.io/github/stars/MoisesGuerreroUdeA?style=social)
-![GitHub Org's stars](https://img.shields.io/github/issues/MoisesGuerreroUdeA/Seminario-Analitica-CDatos?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/MoisesGuerreroUdeA?style=plastic&color=purple)
 
 <br/>
 <div align='center'>
@@ -29,7 +28,7 @@ Este proyecto tiene como objetivo abordar el desafío de aportar en la optimizac
 
 Los archivos del repositorio de encuentran distribuidos en 3 directorios principales `docs`, `imgs` y `jupyter`.
 
-* **docs:** Contiene subdirectorios para cada momento evaluativo incluyendo documentación en formato `tex`, que puede ser visualizada adicionalmente en formato `pdf`.
+* **docs:** Contiene subdirectorios para cada momento evaluativo incluyendo documentación en formato `tex`, que puede ser visualizada por medio de `overleaf`.
 * **imgs:** Imágenes usadas en los distintos archivos tanto de documentación como cuadernos jupyter.
 * **jupyter:** Incluye Subdirectorios por momento evaluativo con notebooks de jupyter asociados con la actividad requerida.
 
