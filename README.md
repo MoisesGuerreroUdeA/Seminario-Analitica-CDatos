@@ -46,7 +46,7 @@ https://github.com/MoisesGuerreroUdeA/Seminario-Analitica-CDatos
 6. Una vez abierto el notebook, la ejecución requiere de un archivo de credenciales de Kaggle con nombre `kaggle.json`. Este archivo puede ser generado desde su usuario de Kaggle, ingresando a https://www.kaggle.com/settings y accediendo a la opción "API>Create New Token".
 7. Una vez generado el token de Kaggle, este se debe subir a la carpeta de archivos del entorno de ejecución de Colab.
 8. A continuación solo es necesario ejecutar el notebook.
-9. Luego de la ejecución se genera un archivo en formato `.pickle` con el dataset transformado y preparado que puede ser descargado desde la interfaz de Colab.
+9. Luego de la ejecución se genera un archivo en formato `.parquet` con el dataset transformado y preparado que puede ser descargado desde la interfaz de Colab para ser usado posteriormente.
 
 ## Actividades
 
